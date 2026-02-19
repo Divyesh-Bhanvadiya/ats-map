@@ -1,0 +1,5 @@
+*.pmtiles binary
+*.pmtiles.bin binary
+*.geojson binary
+*.json binary
+*.png binary
